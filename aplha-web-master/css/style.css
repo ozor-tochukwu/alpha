@@ -547,9 +547,9 @@ a {
   color: #000000; }
 
 .lead {
-  line-height: 1.5;
+  line-height: 2.5;
   font-weight: 400;
-  font-size: 16px; }
+  font-size: 17px; }
   .lead.lg {
     font-size: 20px;
     line-height: 1.5; }
@@ -696,6 +696,8 @@ a {
     color: white; }
     .footer a:hover {
       color: #ffffff; }
+        .footer li:hover {
+          color: #ffffff; }
   .footer .copyright {
     margin-top: 50px;
     font-size: 12px;
@@ -1141,13 +1143,3 @@ input[type="password"] {
       justify-content: center;
       margin: auto;
     }
-
-    /* h1{
-        position: absolute;
-        color: rgb(20, 20, 20);
-        bottom: 0%;
-        font-size:x-large;
-        text-align: center;
-        padding: 100px;
-        font-weight: 600;
-     } */
